@@ -1,0 +1,28 @@
+Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgarg04]): 
+--------------------------------------
+Top 10 posts from /r/node: 
+--------------------------------------
+Prevent user-uploaded csv from containing/running malicious code
+Upvotes: 8
+URL: https://reddit.com/r/node/comments/1iyqneu/prevent_useruploaded_csv_from_containingrunning/
+---
+How do you build a Restful API with Express.JS + TypeScript + Mongoose these days?
+Upvotes: 4
+URL: https://reddit.com/r/node/comments/1iyu1tl/how_do_you_build_a_restful_api_with_expressjs/
+---
+Node.js friendly logs explorer template
+Upvotes: 2
+URL: https://reddit.com/r/node/comments/1iyp22v/nodejs_friendly_logs_explorer_template/
+---
+Survey for new idea
+Upvotes: 1
+URL: https://reddit.com/r/node/comments/1iyj11y/survey_for_new_idea/
+---
+What are things causing a backend node.js service using the MVC pattern to leak memory?
+Upvotes: 0
+URL: https://reddit.com/r/node/comments/1iz1q88/what_are_things_causing_a_backend_nodejs_service/
+---
+Monolithic vs. Microservices Architecture in Node.js
+Upvotes: 0
+URL: https://reddit.com/r/node/comments/1iyn3gw/monolithic_vs_microservices_architecture_in_nodejs/
+---

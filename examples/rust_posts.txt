@@ -1,0 +1,44 @@
+Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgarg04]): 
+--------------------------------------
+Top 10 posts from /r/rust: 
+--------------------------------------
+Should I use a Box&lt;str&gt; instead of a String when possible?
+Upvotes: 385
+URL: https://reddit.com/r/rust/comments/1iyits1/should_i_use_a_boxstr_instead_of_a_string_when/
+---
+Christoph Hellwig has stepped down from the maintenance of the DMA-mapping code
+Upvotes: 339
+URL: https://reddit.com/r/rust/comments/1iyken3/christoph_hellwig_has_stepped_down_from_the/
+---
+Microsoft is Getting Rusty: A Review of Successes and Challenges - Mark Russinovich, Rust Nation UK
+Upvotes: 140
+URL: https://reddit.com/r/rust/comments/1iyw28n/microsoft_is_getting_rusty_a_review_of_successes/
+---
+ExpressVPN gets faster and more secure, thanks to Rust
+Upvotes: 122
+URL: https://reddit.com/r/rust/comments/1iyuij2/expressvpn_gets_faster_and_more_secure_thanks_to/
+---
+AMA: How We Built Warp on Windows
+Upvotes: 89
+URL: https://reddit.com/r/rust/comments/1iyu92q/ama_how_we_built_warp_on_windows/
+---
+[Media] Monkeytype clone in the terminal
+Upvotes: 62
+URL: https://reddit.com/r/rust/comments/1iyqeb9/media_monkeytype_clone_in_the_terminal/
+---
+Building a new graphics engine in Rust
+Upvotes: 42
+URL: https://reddit.com/r/rust/comments/1iynyra/building_a_new_graphics_engine_in_rust/
+---
+Rust Nation UK 2025 Conference Talks Now Live! 🎉
+Upvotes: 38
+URL: https://reddit.com/r/rust/comments/1iyvlkx/rust_nation_uk_2025_conference_talks_now_live/
+---
+[comfy-table]Terminal tables that just work. v7.1.4 released, now with *proper* UTF-8 support
+Upvotes: 27
+URL: https://reddit.com/r/rust/comments/1iyhn1c/comfytableterminal_tables_that_just_work_v714/
+---
+Improving writing good unsafe Rust
+Upvotes: 13
+URL: https://reddit.com/r/rust/comments/1iyntvt/improving_writing_good_unsafe_rust/
+---

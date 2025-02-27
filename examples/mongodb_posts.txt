@@ -1,0 +1,8 @@
+Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgarg04]): 
+--------------------------------------
+Top 10 posts from /r/mongodb: 
+--------------------------------------
+Strategies for Multi-Client Data Ingestion and RBAC in MongoDB
+Upvotes: 3
+URL: https://reddit.com/r/mongodb/comments/1iykwix/strategies_for_multiclient_data_ingestion_and/
+---

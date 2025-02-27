@@ -1,0 +1,16 @@
+Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgarg04]): 
+--------------------------------------
+Top 20 posts from /r/microsoft: 
+--------------------------------------
+Time to hear back after final interviews
+Upvotes: 9
+URL: https://reddit.com/r/microsoft/comments/1iz0or0/time_to_hear_back_after_final_interviews/
+---
+Azure, Power BI, and QuickBooks Online
+Upvotes: 1
+URL: https://reddit.com/r/microsoft/comments/1iyo9le/azure_power_bi_and_quickbooks_online/
+---
+Service Engineer Technical Questions
+Upvotes: 0
+URL: https://reddit.com/r/microsoft/comments/1iyn71z/service_engineer_technical_questions/
+---

@@ -1,0 +1,44 @@
+Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgarg04]): 
+--------------------------------------
+Top 10 posts from /r/nextjs: 
+--------------------------------------
+Next.js 15.2
+Upvotes: 39
+URL: https://reddit.com/r/nextjs/comments/1iz4alx/nextjs_152/
+---
+Is Turbopack Still This Buggy, or Is It Just Me?
+Upvotes: 6
+URL: https://reddit.com/r/nextjs/comments/1iylkhy/is_turbopack_still_this_buggy_or_is_it_just_me/
+---
+Please explain v0 to me
+Upvotes: 5
+URL: https://reddit.com/r/nextjs/comments/1iyl1aj/please_explain_v0_to_me/
+---
+Is it possible to trigger the fetch from rsc only once?
+Upvotes: 2
+URL: https://reddit.com/r/nextjs/comments/1iyiekt/is_it_possible_to_trigger_the_fetch_from_rsc_only/
+---
+Is it bad to use force-dynamic on every page
+Upvotes: 2
+URL: https://reddit.com/r/nextjs/comments/1iz61jl/is_it_bad_to_use_forcedynamic_on_every_page/
+---
+Nextjs + Laravel API deployment help needed
+Upvotes: 2
+URL: https://reddit.com/r/nextjs/comments/1iz4u8i/nextjs_laravel_api_deployment_help_needed/
+---
+Caching issues
+Upvotes: 2
+URL: https://reddit.com/r/nextjs/comments/1iyqgml/caching_issues/
+---
+what is the best way to translate a next app without losing SSG
+Upvotes: 2
+URL: https://reddit.com/r/nextjs/comments/1iykyft/what_is_the_best_way_to_translate_a_next_app/
+---
+Recommendations for a Writing Platform Starter Kit
+Upvotes: 1
+URL: https://reddit.com/r/nextjs/comments/1iz6tdz/recommendations_for_a_writing_platform_starter_kit/
+---
+Integration between Payload CMS and third party DAMs
+Upvotes: 1
+URL: https://reddit.com/r/nextjs/comments/1iz6lbz/integration_between_payload_cms_and_third_party/
+---

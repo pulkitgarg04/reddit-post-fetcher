@@ -1,0 +1,44 @@
+Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgarg04]): 
+--------------------------------------
+Top 10 posts from /r/webdev: 
+--------------------------------------
+Perplexity is forking Chrome
+Upvotes: 365
+URL: https://reddit.com/r/webdev/comments/1iykigm/perplexity_is_forking_chrome/
+---
+Where is "injected stylesheet" coming from? Screenshot is Chrome's Developer Tools. This "injected stylesheet" is only present in Chrome (not present in Safari or Firefox).
+Upvotes: 194
+URL: https://reddit.com/r/webdev/comments/1iyqps6/where_is_injected_stylesheet_coming_from/
+---
+Why do developers use npm packages for fonts and icons instead of just hosting static files?
+Upvotes: 195
+URL: https://reddit.com/r/webdev/comments/1iyknlc/why_do_developers_use_npm_packages_for_fonts_and/
+---
+Did I make the right call by replacing my 3D portfolio with a plane 2D one?
+Upvotes: 111
+URL: https://reddit.com/r/webdev/comments/1iz51ni/did_i_make_the_right_call_by_replacing_my_3d/
+---
+How do you guys host your websites?
+Upvotes: 26
+URL: https://reddit.com/r/webdev/comments/1iylckh/how_do_you_guys_host_your_websites/
+---
+I created YouTube-style donations but for websites! Is it something you would like to use for your projects?
+Upvotes: 23
+URL: https://reddit.com/r/webdev/comments/1iysq5w/i_created_youtubestyle_donations_but_for_websites/
+---
+Is SQL experience translatable?
+Upvotes: 5
+URL: https://reddit.com/r/webdev/comments/1iyve02/is_sql_experience_translatable/
+---
+How to handle cookie banner with the new EU accessibility act?
+Upvotes: 6
+URL: https://reddit.com/r/webdev/comments/1iyl8yt/how_to_handle_cookie_banner_with_the_new_eu/
+---
+Semaphore CI is now an open source CI/CD platform
+Upvotes: 5
+URL: https://reddit.com/r/webdev/comments/1iywiic/semaphore_ci_is_now_an_open_source_cicd_platform/
+---
+Where does the httpOnly cookie stay?
+Upvotes: 4
+URL: https://reddit.com/r/webdev/comments/1iypcsj/where_does_the_httponly_cookie_stay/
+---

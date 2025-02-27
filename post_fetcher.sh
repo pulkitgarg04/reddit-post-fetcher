@@ -2,8 +2,9 @@
 
 fetch_reddit_posts() {
     local subreddit="$1"
-	# Set the post limit to 5 (if not provided)
+    # Set the post limit to 5 (if not provided)
     local limit="${2:-5}"
+    local output_file="${subreddit}_posts.txt"
 
     echo "Welcome to Reddit Post Fetcher! Made with {love} by Pulkit Garg."
 
@@ -17,17 +18,17 @@ fetch_reddit_posts() {
         exit 1
     fi
 
-    echo "Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgarg04]): " > reddit_posts.txt
-    echo "--------------------------------------" >> reddit_posts.txt
-    echo "Top $limit posts from /r/$subreddit: " > reddit_posts.txt
-    echo "--------------------------------------" >> reddit_posts.txt
+    echo "Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgarg04]): " > "$output_file"
+    echo "--------------------------------------" >> "$output_file"
+    echo "Top $limit posts from /r/$subreddit: " >> "$output_file"
+    echo "--------------------------------------" >> "$output_file"
 
-    echo "$response" | jq -r '.data.children[] | "\(.data.title)\nUpvotes: \(.data.ups)\nURL: https://reddit.com\(.data.permalink)\n---"' >> reddit_posts.txt
+    echo "$response" | jq -r '.data.children[] | "\(.data.title)\nUpvotes: \(.data.ups)\nURL: https://reddit.com\(.data.permalink)\n---"' >> "$output_file"
 
-    echo "Posts have been saved to reddit_posts.txt"
+    echo "Posts have been saved to $output_file"
 
     echo
-    cat reddit_posts.txt
+    cat "$output_file"
 }
 
 if [[ -z "$1" ]]; then

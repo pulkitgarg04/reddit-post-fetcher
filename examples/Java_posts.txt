@@ -1,0 +1,16 @@
+Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgarg04]): 
+--------------------------------------
+Top 10 posts from /r/Java: 
+--------------------------------------
+can I use var for everything
+Upvotes: 34
+URL: https://reddit.com/r/java/comments/1iz2wn3/can_i_use_var_for_everything/
+---
+True Test Coverage with Tracing
+Upvotes: 1
+URL: https://reddit.com/r/java/comments/1iyrfkn/true_test_coverage_with_tracing/
+---
+How does pointer compression work?
+Upvotes: 0
+URL: https://reddit.com/r/java/comments/1iyoevf/how_does_pointer_compression_work/
+---

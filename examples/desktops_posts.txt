@@ -1,0 +1,44 @@
+Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgarg04]): 
+--------------------------------------
+Top 10 posts from /r/desktops: 
+--------------------------------------
+Minimalist
+Upvotes: 82
+URL: https://reddit.com/r/desktops/comments/1iynbzw/minimalist/
+---
+My minimal desktop setup
+Upvotes: 68
+URL: https://reddit.com/r/desktops/comments/1iyyfg2/my_minimal_desktop_setup/
+---
+XP mod
+Upvotes: 45
+URL: https://reddit.com/r/desktops/comments/1iyl3ah/xp_mod/
+---
+My simple Harry Potter gaming setup 🤓
+Upvotes: 15
+URL: https://reddit.com/r/desktops/comments/1iyhrtn/my_simple_harry_potter_gaming_setup/
+---
+windows 11 and linux mint 22.1 xfce customiztion
+Upvotes: 7
+URL: https://reddit.com/r/desktops/comments/1iz688r/windows_11_and_linux_mint_221_xfce_customiztion/
+---
+Simple and Clean Desktop
+Upvotes: 7
+URL: https://reddit.com/r/desktops/comments/1iyw6ul/simple_and_clean_desktop/
+---
+My desktop while running my game.
+Upvotes: 5
+URL: https://reddit.com/r/desktops/comments/1iz2drw/my_desktop_while_running_my_game/
+---
+My minimal desktop setup but in blue
+Upvotes: 4
+URL: https://reddit.com/r/desktops/comments/1iyz99o/my_minimal_desktop_setup_but_in_blue/
+---
+Arch Linux and Openbox
+Upvotes: 5
+URL: https://reddit.com/r/desktops/comments/1iym60e/arch_linux_and_openbox/
+---
+F1 inspired basic desktop
+Upvotes: 3
+URL: https://reddit.com/r/desktops/comments/1iyzrz5/f1_inspired_basic_desktop/
+---

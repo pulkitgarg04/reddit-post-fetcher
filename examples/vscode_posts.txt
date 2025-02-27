@@ -1,0 +1,44 @@
+Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgarg04]): 
+--------------------------------------
+Top 10 posts from /r/vscode: 
+--------------------------------------
+Can't get rid of compromised Equinsocio's Material Theme, it always coming back
+Upvotes: 16
+URL: https://reddit.com/r/vscode/comments/1iyiil2/cant_get_rid_of_compromised_equinsocios_material/
+---
+Tips for someone coming from Emacs...
+Upvotes: 6
+URL: https://reddit.com/r/vscode/comments/1iyxnvk/tips_for_someone_coming_from_emacs/
+---
+Vs code does not recognize java main method.(Spring Boot API)
+Upvotes: 5
+URL: https://reddit.com/r/vscode/comments/1iynkr3/vs_code_does_not_recognize_java_main_methodspring/
+---
+Does anybody here really like Zen Mode?
+Upvotes: 1
+URL: https://reddit.com/r/vscode/comments/1iz30g4/does_anybody_here_really_like_zen_mode/
+---
+Blockman
+Upvotes: 3
+URL: https://reddit.com/r/vscode/comments/1iz1mg2/blockman/
+---
+VS Code referencing the wrong Python Module path
+Upvotes: 1
+URL: https://reddit.com/r/vscode/comments/1iyznrg/vs_code_referencing_the_wrong_python_module_path/
+---
+My arrow keys are inputting ^[[D in the terminal
+Upvotes: 1
+URL: https://reddit.com/r/vscode/comments/1iyulic/my_arrow_keys_are_inputting_d_in_the_terminal/
+---
+New Grouped Timeline! Open Source Local History Restore Extension
+Upvotes: 1
+URL: https://reddit.com/r/vscode/comments/1iyo7rc/new_grouped_timeline_open_source_local_history/
+---
+What happened to community material themes?
+Upvotes: 1
+URL: https://reddit.com/r/vscode/comments/1iyl30z/what_happened_to_community_material_themes/
+---
+vsc just wont run help
+Upvotes: 1
+URL: https://reddit.com/r/vscode/comments/1iz77uq/vsc_just_wont_run_help/
+---

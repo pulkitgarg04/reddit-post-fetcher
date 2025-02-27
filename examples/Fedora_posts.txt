@@ -1,0 +1,44 @@
+Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgarg04]): 
+--------------------------------------
+Top 10 posts from /r/Fedora: 
+--------------------------------------
+any body having problem rebuilding akmods nvidia driver after updating to latest kernel 6.13.4 for fedora 40
+Upvotes: 65
+URL: https://reddit.com/r/Fedora/comments/1iyjelr/any_body_having_problem_rebuilding_akmods_nvidia/
+---
+Really impressed by fedora kde after using 1 month didn't know it kde would flow with fedora this well
+Upvotes: 48
+URL: https://reddit.com/r/Fedora/comments/1iytnix/really_impressed_by_fedora_kde_after_using_1/
+---
+Kernel 6.13 Flatpak system crashes
+Upvotes: 24
+URL: https://reddit.com/r/Fedora/comments/1iypczc/kernel_613_flatpak_system_crashes/
+---
+Why dnf5 update make ptyxis blinking?
+Upvotes: 15
+URL: https://reddit.com/r/Fedora/comments/1iyjdmq/why_dnf5_update_make_ptyxis_blinking/
+---
+How to install Fedora Kinoite dualboot alongside Windows 11?
+Upvotes: 11
+URL: https://reddit.com/r/Fedora/comments/1iyizrz/how_to_install_fedora_kinoite_dualboot_alongside/
+---
+No GPU performance on Kernel 6.13.4 + Nvidia 570
+Upvotes: 7
+URL: https://reddit.com/r/Fedora/comments/1iz3649/no_gpu_performance_on_kernel_6134_nvidia_570/
+---
+New Kernel kind of broken?
+Upvotes: 8
+URL: https://reddit.com/r/Fedora/comments/1iywaeb/new_kernel_kind_of_broken/
+---
+Suspend issues after kernel 6.13 update
+Upvotes: 5
+URL: https://reddit.com/r/Fedora/comments/1iz5zx0/suspend_issues_after_kernel_613_update/
+---
+Changing the video driver version (rpmfusion) on Fedora 41
+Upvotes: 5
+URL: https://reddit.com/r/Fedora/comments/1iyx8oj/changing_the_video_driver_version_rpmfusion_on/
+---
+I created a Fedora 41 KDE DaVinci Resolve Studio Installation Tutorial and AMD GPU Detection Installation Guide! It's my first video so go easy on me! 🥴
+Upvotes: 5
+URL: https://reddit.com/r/Fedora/comments/1iyw7an/i_created_a_fedora_41_kde_davinci_resolve_studio/
+---

@@ -1,0 +1,32 @@
+Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgarg04]): 
+--------------------------------------
+Top 20 posts from /r/programminghumor: 
+--------------------------------------
+Life of a Programmer
+Upvotes: 1271
+URL: https://reddit.com/r/programminghumor/comments/1iyg1zn/life_of_a_programmer/
+---
+Only programmers can relate
+Upvotes: 873
+URL: https://reddit.com/r/programminghumor/comments/1iylujn/only_programmers_can_relate/
+---
+Writing 10 lines of python code
+Upvotes: 373
+URL: https://reddit.com/r/programminghumor/comments/1iyhthb/writing_10_lines_of_python_code/
+---
+This is me right now
+Upvotes: 286
+URL: https://reddit.com/r/programminghumor/comments/1iz2fzc/this_is_me_right_now/
+---
+DSA sometimes is difficult
+Upvotes: 133
+URL: https://reddit.com/r/programminghumor/comments/1iz3rvp/dsa_sometimes_is_difficult/
+---
+Remembering questions studied
+Upvotes: 99
+URL: https://reddit.com/r/programminghumor/comments/1iyquw8/remembering_questions_studied/
+---
+Only programmers can relate...
+Upvotes: 74
+URL: https://reddit.com/r/programminghumor/comments/1iz78pg/only_programmers_can_relate/
+---

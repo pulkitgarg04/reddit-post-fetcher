@@ -1,0 +1,44 @@
+Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgarg04]): 
+--------------------------------------
+Top 10 posts from /r/apple: 
+--------------------------------------
+Trump Responds to Apple Keeping Diversity Policies
+Upvotes: 863
+URL: https://reddit.com/r/apple/comments/1iyrbvm/trump_responds_to_apple_keeping_diversity_policies/
+---
+Director of National Intelligence suggests UK broke agreement in secretly asking Apple to build iCloud backdoor
+Upvotes: 406
+URL: https://reddit.com/r/apple/comments/1iyvrkw/director_of_national_intelligence_suggests_uk/
+---
+Apple Begins Selling Refurbished M4 iMacs at Discounted Prices
+Upvotes: 355
+URL: https://reddit.com/r/apple/comments/1iyxi81/apple_begins_selling_refurbished_m4_imacs_at/
+---
+What Apple pulling UK Advanced Data Protection means for you
+Upvotes: 161
+URL: https://reddit.com/r/apple/comments/1iyikgi/what_apple_pulling_uk_advanced_data_protection/
+---
+Google Password Manager finally syncs to iOS—here’s how | Chrome for iOS no longer syncs solely to iCloud.
+Upvotes: 154
+URL: https://reddit.com/r/apple/comments/1iyo24j/google_password_manager_finally_syncs_to_iosheres/
+---
+iPhone 17 Pro models again rumored to feature 12GB RAM for increased AI support
+Upvotes: 184
+URL: https://reddit.com/r/apple/comments/1iz63gl/iphone_17_pro_models_again_rumored_to_feature/
+---
+Apple delegates refused to comment on unauthorized transfer of customer data in Korea
+Upvotes: 114
+URL: https://reddit.com/r/apple/comments/1iywn3e/apple_delegates_refused_to_comment_on/
+---
+iOS 18.4 Shows Your Search History in New Safari Tabs
+Upvotes: 53
+URL: https://reddit.com/r/apple/comments/1iz0ams/ios_184_shows_your_search_history_in_new_safari/
+---
+iPhone 16e Review: Who Are You?
+Upvotes: 20
+URL: https://reddit.com/r/apple/comments/1iz7403/iphone_16e_review_who_are_you/
+---
+Daily Advice Thread - February 26, 2025
+Upvotes: 2
+URL: https://reddit.com/r/apple/comments/1iykzfi/daily_advice_thread_february_26_2025/
+---

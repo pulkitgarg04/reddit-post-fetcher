@@ -1,0 +1,44 @@
+Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgarg04]): 
+--------------------------------------
+Top 10 posts from /r/programming: 
+--------------------------------------
+TypeScript types can run DOOM
+Upvotes: 869
+URL: https://reddit.com/r/programming/comments/1iyqeu7/typescript_types_can_run_doom/
+---
+Open-source is where dreams go to die
+Upvotes: 298
+URL: https://reddit.com/r/programming/comments/1iyj3e0/opensource_is_where_dreams_go_to_die/
+---
+I spent the last few days researching current industry expectations for backend developers—here’s everything I learned.
+Upvotes: 53
+URL: https://reddit.com/r/programming/comments/1iyltpx/i_spent_the_last_few_days_researching_current/
+---
+Gleam, coming from Erlang
+Upvotes: 56
+URL: https://reddit.com/r/programming/comments/1iyhi5j/gleam_coming_from_erlang/
+---
+Dixon's Algorithm: Asymptotically Fast Factorization of Integers
+Upvotes: 31
+URL: https://reddit.com/r/programming/comments/1iyvfoi/dixons_algorithm_asymptotically_fast/
+---
+Why Ruby on Rails still matters
+Upvotes: 28
+URL: https://reddit.com/r/programming/comments/1iyz3nw/why_ruby_on_rails_still_matters/
+---
+htmldocs – LaTeX alternative for building PDFs with React and Tailwind
+Upvotes: 27
+URL: https://reddit.com/r/programming/comments/1iypc45/htmldocs_latex_alternative_for_building_pdfs_with/
+---
+Inverse Symbolic Calculator – Turning Approximations into Exact Formulas
+Upvotes: 21
+URL: https://reddit.com/r/programming/comments/1iyo670/inverse_symbolic_calculator_turning/
+---
+Dust DDS: A native Rust implementation of the Data Distribution Service middleware
+Upvotes: 12
+URL: https://reddit.com/r/programming/comments/1iyist1/dust_dds_a_native_rust_implementation_of_the_data/
+---
+Let's Implement Consistent Hashing From Scratch
+Upvotes: 9
+URL: https://reddit.com/r/programming/comments/1iz4qp6/lets_implement_consistent_hashing_from_scratch/
+---

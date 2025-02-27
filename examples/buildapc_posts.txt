@@ -1,0 +1,44 @@
+Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgarg04]): 
+--------------------------------------
+Top 10 posts from /r/buildapc: 
+--------------------------------------
+What are the downsides to getting an AMD card
+Upvotes: 297
+URL: https://reddit.com/r/buildapc/comments/1iyuf9t/what_are_the_downsides_to_getting_an_amd_card/
+---
+Building a pc in 2025 in a nutshell!
+Upvotes: 197
+URL: https://reddit.com/r/buildapc/comments/1iyk371/building_a_pc_in_2025_in_a_nutshell/
+---
+Whats the AMD equivalent in performance of Nvidia's 4070 ti super
+Upvotes: 116
+URL: https://reddit.com/r/buildapc/comments/1iyluyr/whats_the_amd_equivalent_in_performance_of/
+---
+Why does cable management take longer than the actual PC build?
+Upvotes: 97
+URL: https://reddit.com/r/buildapc/comments/1iypsif/why_does_cable_management_take_longer_than_the/
+---
+Whats the Best Gaming Chair That Is Super Comfortable?
+Upvotes: 68
+URL: https://reddit.com/r/buildapc/comments/1iytyax/whats_the_best_gaming_chair_that_is_super/
+---
+So which motherboard brand has the best software?
+Upvotes: 35
+URL: https://reddit.com/r/buildapc/comments/1iywljl/so_which_motherboard_brand_has_the_best_software/
+---
+Nothing Like The New PC Feeling
+Upvotes: 27
+URL: https://reddit.com/r/buildapc/comments/1iz2y23/nothing_like_the_new_pc_feeling/
+---
+Is the Rtx 4060 really that bad?
+Upvotes: 28
+URL: https://reddit.com/r/buildapc/comments/1iz2ppo/is_the_rtx_4060_really_that_bad/
+---
+7800x3d vs 9800x3d
+Upvotes: 18
+URL: https://reddit.com/r/buildapc/comments/1iykl3g/7800x3d_vs_9800x3d/
+---
+Has the issue been fixed yet where a 7900 xtx uses 2/3 times as much power when connected to 3 monitors?
+Upvotes: 11
+URL: https://reddit.com/r/buildapc/comments/1iyhnuv/has_the_issue_been_fixed_yet_where_a_7900_xtx/
+---

@@ -1,0 +1,44 @@
+Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgarg04]): 
+--------------------------------------
+Top 10 posts from /r/AskReddit: 
+--------------------------------------
+What's the first major news story you can remember living through as a child?
+Upvotes: 1694
+URL: https://reddit.com/r/AskReddit/comments/1iygh0s/whats_the_first_major_news_story_you_can_remember/
+---
+What’s something you see many people do, that you’ll never do?
+Upvotes: 1597
+URL: https://reddit.com/r/AskReddit/comments/1iyq8vt/whats_something_you_see_many_people_do_that_youll/
+---
+When did you know your relationship was over?
+Upvotes: 1432
+URL: https://reddit.com/r/AskReddit/comments/1iygqy6/when_did_you_know_your_relationship_was_over/
+---
+What is the most overhyped fast food?
+Upvotes: 1300
+URL: https://reddit.com/r/AskReddit/comments/1iyth2b/what_is_the_most_overhyped_fast_food/
+---
+What death of a famous person actually affected you most?
+Upvotes: 985
+URL: https://reddit.com/r/AskReddit/comments/1iyvu1p/what_death_of_a_famous_person_actually_affected/
+---
+What makes a woman attractive?
+Upvotes: 790
+URL: https://reddit.com/r/AskReddit/comments/1iyonlc/what_makes_a_woman_attractive/
+---
+You are offered $10,000 every day to live inside an abandoned hospital that the townspeople claim is haunted. Although it's just a local legend, what would you do?
+Upvotes: 734
+URL: https://reddit.com/r/AskReddit/comments/1iyufln/you_are_offered_10000_every_day_to_live_inside_an/
+---
+Which game proves that graphics aren't everything?
+Upvotes: 676
+URL: https://reddit.com/r/AskReddit/comments/1iz0bzi/which_game_proves_that_graphics_arent_everything/
+---
+You win a contest to live in a luxury mansion alone for a year. How do you make the most of it?
+Upvotes: 617
+URL: https://reddit.com/r/AskReddit/comments/1iyskky/you_win_a_contest_to_live_in_a_luxury_mansion/
+---
+Who was your first celebrity crush?
+Upvotes: 432
+URL: https://reddit.com/r/AskReddit/comments/1iyu11v/who_was_your_first_celebrity_crush/
+---

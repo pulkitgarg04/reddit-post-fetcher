@@ -1,0 +1,44 @@
+Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgarg04]): 
+--------------------------------------
+Top 10 posts from /r/react: 
+--------------------------------------
+Is Shadcn Worth the Headaches?
+Upvotes: 53
+URL: https://reddit.com/r/react/comments/1iyj8sk/is_shadcn_worth_the_headaches/
+---
+Need Design Feedback for a dashboard
+Upvotes: 30
+URL: https://reddit.com/r/react/comments/1iyjtb7/need_design_feedback_for_a_dashboard/
+---
+New random on react
+Upvotes: 4
+URL: https://reddit.com/r/react/comments/1iyvn50/new_random_on_react/
+---
+Highcharts vs ECharts for Real-Time Data Visualization - Which One Should I Choose?
+Upvotes: 3
+URL: https://reddit.com/r/react/comments/1iyxzg7/highcharts_vs_echarts_for_realtime_data/
+---
+What's the best solution for virtualizing a custom list?
+Upvotes: 2
+URL: https://reddit.com/r/react/comments/1iz4isg/whats_the_best_solution_for_virtualizing_a_custom/
+---
+Just Launched: Astrae – A Landing Page Template Library
+Upvotes: 2
+URL: https://reddit.com/r/react/comments/1iz3q5o/just_launched_astrae_a_landing_page_template/
+---
+Building my first website portfolio
+Upvotes: 3
+URL: https://reddit.com/r/react/comments/1iyz224/building_my_first_website_portfolio/
+---
+Seeking Advice on Transitioning from IT Support to React.js Development with 6 Years of Experience – Is This a Good Move?
+Upvotes: 2
+URL: https://reddit.com/r/react/comments/1iyj5ro/seeking_advice_on_transitioning_from_it_support/
+---
+Looking for sync libraries for a remote-first React app (web + mobile)
+Upvotes: 1
+URL: https://reddit.com/r/react/comments/1iys5zi/looking_for_sync_libraries_for_a_remotefirst/
+---
+When is the right time to start learning React or backend?
+Upvotes: 1
+URL: https://reddit.com/r/react/comments/1iyg0ew/when_is_the_right_time_to_start_learning_react_or/
+---
